@@ -31,4 +31,4 @@ I value your feedback and would love to hear your thoughts on the TravelVerse co
 
 ## License
 
-This concept demo is released under the MIT License. For more information, please refer to the [LICENSE.md](LICENSE.md) file.
+This concept demo is released under the MIT License. For more information, please refer to the [LICENSE](LICENSE) file.
