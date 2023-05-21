@@ -23,11 +23,11 @@ TravelVerse is an AI-powered travel companion app that combines smart features, 
 
 To experience the TravelVerse Concept Demo, simply visit the web app at [INSERT WEB APP URL HERE]. The app is designed to be intuitive and user-friendly, allowing you to navigate through the various features and explore the concept of TravelVerse.
 
-Please note that this demo is a demonstration of TravelVerse's potential and does not provide full access to all features of the actual app. For a complete travel companion experience, we invite you to download and install the TravelVerse app on your Android device.
+Please note that this demo is a demonstration of TravelVerse's potential and does not provide full access to all features of the actual app. For a complete travel companion experience, I invite you to download and install the TravelVerse app on your Android device.
 
 ## Feedback and Support
 
-We value your feedback and would love to hear your thoughts on the TravelVerse concept and the Concept Demo web app. If you have any questions, suggestions, or encounter any issues while using the app, please reach out to us at [INSERT CONTACT EMAIL HERE]. We appreciate your support and look forward to enhancing your travel experiences with TravelVerse.
+I value your feedback and would love to hear your thoughts on the TravelVerse concept and the Concept Demo web app. If you have any questions, suggestions, or encounter any issues while using the app, please reach out to us at mlim912@aucklanduni.ac.nz. I appreciate your support and look forward to enhancing your travel experiences with TravelVerse.
 
 ## License
 
